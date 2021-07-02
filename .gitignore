@@ -114,5 +114,5 @@ build
 .strapi-updater.json
 
 package.json
-
+package-lock.json
 yarn.lock
